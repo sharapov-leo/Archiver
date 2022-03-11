@@ -19,5 +19,5 @@ DESCRIPTION
     -1
         The maximum compressible block size is 102400 bytes (100 KB).
     -9
-        the maximum compressible block size is 921600 bytes (900 KB) by default.
+        The maximum compressible block size is 921600 bytes (900 KB) by default.
 ```
