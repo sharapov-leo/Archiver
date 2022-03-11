@@ -87,6 +87,8 @@ void archiver(int argc, char* argv[]) {
 		else
 			fileName = argv[i];
 	}
+	if (isStdout)
+		isDeleteSource = false;
 	if (isDecompress) {
 		isCompress = false;
 	}
