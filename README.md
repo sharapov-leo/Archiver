@@ -1,9 +1,10 @@
 # Archiver
 
-# Syntax
+# Manual
 
 ```
-<sentence> ::= [arguments] file_name [arguments]
+SYNOPSIS
+  <sentence> ::= [arguments]* file_name [arguments]*
   
-<arguments> ::= -c | -d | -k | -r | -1 | -9
+  <arguments> ::= -c | -d | -k | -r | -1 | -9
 ```
