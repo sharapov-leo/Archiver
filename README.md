@@ -1,5 +1,3 @@
-# Archiver
-
 # Manual
 
 ```
